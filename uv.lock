@@ -945,6 +945,7 @@ dependencies = [
     { name = "langchain-azure-ai" },
     { name = "langchain-tavily" },
     { name = "langgraph" },
+    { name = "openai" },
     { name = "python-dotenv" },
     { name = "tavily-python" },
 ]
@@ -957,6 +958,7 @@ requires-dist = [
     { name = "langchain-azure-ai", specifier = ">=1.2.3" },
     { name = "langchain-tavily", specifier = ">=0.2.18" },
     { name = "langgraph", specifier = ">=1.2.4" },
+    { name = "openai", specifier = ">=2.41.0" },
     { name = "python-dotenv", specifier = ">=1.2.2" },
     { name = "tavily-python", specifier = ">=0.7.26" },
 ]
